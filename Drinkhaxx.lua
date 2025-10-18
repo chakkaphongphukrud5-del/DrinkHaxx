@@ -118,3 +118,4 @@ Gamer:Button("Auto Drink With Sixth Drink", function()
 	end
 end);
 library:Ready();
+
